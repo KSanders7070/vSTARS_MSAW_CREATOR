@@ -8,5 +8,5 @@ It takes around 18min to complete an airport depending on your internet connecti
 
 
 **PROGRAMERS:**
-This BATCH was not written to be pretty or efficient; It was a quick response to a need of mine and it works for others aswell.
+This BATCH was not written to be pretty or efficient.
 I will likely not be refactoring it.
