@@ -4,7 +4,7 @@ Uses the MyFSim.com MSAW_CREATOR.php script to build a MSAW File for vSTARS with
 
 **USERS:**
 This Batch File only works for USA Airports.
-It takes around 18min to complete an airport depending on your internet connection along with the MyFSim.com server load.
+It takes around 18min to complete an airport depending on your internet connection along with the MyFSim.com server load. Download the vSTARS_MSAW_CREATOR.bat, Double-Click it and follow the prompts.
 
 
 **PROGRAMERS:**
