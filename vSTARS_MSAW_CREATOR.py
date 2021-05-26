@@ -119,6 +119,7 @@ def complete_messages(apt=''):
     print("          **************************************\n\n")
     print(f"          Your {apt}_MSAW.xml can be found here:")
     print(f"        {getcwd()}\\{apt}_MSAW.xml\n\n")
+    input("\n\n               Press enter to close.")
 
 
 def get_lat_lon(apt_code):
